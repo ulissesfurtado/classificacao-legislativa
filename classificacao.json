@@ -1,0 +1,4445 @@
+{
+    "grupos": [
+        {
+            "id": 772,
+            "descricao": "SISTEMA FINANCEIRO",
+            "temas": [
+                {
+                    "id": 1673,
+                    "descricao": "BANCO CENTRAL",
+                    "subtemas": [
+                        {
+                            "id": 2267,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1674,
+                    "descricao": "CONCORRENCIAL",
+                    "subtemas": [
+                        {
+                            "id": 2268,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2269,
+                            "descricao": "LIBERDADE ECONÔMICA",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1675,
+                    "descricao": "CRIMES CONTRA O SFN",
+                    "subtemas": [
+                        {
+                            "id": 2270,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1676,
+                    "descricao": "CVM",
+                    "subtemas": [
+                        {
+                            "id": 2271,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1677,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2272,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 773,
+            "descricao": "SEGURANÇA DIGITAL",
+            "temas": [
+                {
+                    "id": 1678,
+                    "descricao": "ASSINATURA DIGITAL",
+                    "subtemas": [
+                        {
+                            "id": 2273,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1679,
+                    "descricao": "CONTA LARANJA",
+                    "subtemas": [
+                        {
+                            "id": 2274,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1680,
+                    "descricao": "CRIMES DIGITAIS",
+                    "subtemas": [
+                        {
+                            "id": 2275,
+                            "descricao": "APLICATIVO",
+                            "topicos": [
+                                {
+                                    "id": 2920,
+                                    "descricao": "SENHA DO PÂNICO "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2276,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2277,
+                            "descricao": "GOLPES E FRAUDES",
+                            "topicos": [
+                                {
+                                    "id": 2725,
+                                    "descricao": "ALERTAS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2278,
+                            "descricao": "IDOSOS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1681,
+                    "descricao": "GEOLOCALIZAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2279,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1682,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2280,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 774,
+            "descricao": "COBRANÇA",
+            "temas": [
+                {
+                    "id": 1683,
+                    "descricao": "CADASTRO NEGATIVO",
+                    "subtemas": [
+                        {
+                            "id": 2281,
+                            "descricao": "AR",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2282,
+                            "descricao": "AVISO PRÉVIO A NEGATIVAÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2283,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2284,
+                            "descricao": "NEGATIVAÇÃO DE SERVIDORES PÚBLICOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2285,
+                            "descricao": "NEGATIVAÇÃO EM CASO DE AÇÃO JUDICIAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2286,
+                            "descricao": "PRAZO PARA RETIRADA DA NEGATIVAÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1684,
+                    "descricao": "CESSÃO DE CRÉDITO",
+                    "subtemas": [
+                        {
+                            "id": 2287,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1685,
+                    "descricao": "DESCONSIDERAÇÃO PJ",
+                    "subtemas": [
+                        {
+                            "id": 2288,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1686,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2289,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1687,
+                    "descricao": "IMPENHORABILIDADE",
+                    "subtemas": [
+                        {
+                            "id": 2290,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1688,
+                    "descricao": "PRETENSÃO RESISTIDA",
+                    "subtemas": [
+                        {
+                            "id": 2291,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1689,
+                    "descricao": "PROTESTO EXTRAJUDICIAL",
+                    "subtemas": [
+                        {
+                            "id": 2292,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1690,
+                    "descricao": "RECUPERAÇÃO JUDICIAL E FALÊNCIA",
+                    "subtemas": [
+                        {
+                            "id": 2293,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1691,
+                    "descricao": "REINTEGRAÇÃO DE POSSE",
+                    "subtemas": [
+                        {
+                            "id": 2294,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 775,
+            "descricao": "PRODUTOS",
+            "temas": [
+                {
+                    "id": 1880,
+                    "descricao": "EMPRÉSTIMOS ",
+                    "subtemas": [
+                        {
+                            "id": 2915,
+                            "descricao": "OFERTA A IDOSOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2919,
+                            "descricao": "CELEBRAÇÃO POR TELEFONE ",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2916,
+                            "descricao": "PROCEDIMENTO CONTRATAÇÃO ",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1879,
+                    "descricao": "EMPRÉSTIMOS ",
+                    "subtemas": null
+                },
+                {
+                    "id": 1697,
+                    "descricao": "CONECTCAR",
+                    "subtemas": [
+                        {
+                            "id": 2312,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2313,
+                            "descricao": "TAXAS E MENSALIDADES",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1881,
+                    "descricao": "EMPRÉSTIMOS ",
+                    "subtemas": null
+                },
+                {
+                    "id": 1692,
+                    "descricao": "CÂMBIO",
+                    "subtemas": [
+                        {
+                            "id": 2295,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1693,
+                    "descricao": "CAPITALIZAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2296,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1694,
+                    "descricao": "CARTÃO DE CRÉDITO",
+                    "subtemas": [
+                        {
+                            "id": 2918,
+                            "descricao": "NFC",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2297,
+                            "descricao": "ALERTA SMS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2298,
+                            "descricao": "CANCELAMENTO DE SERVIÇOS",
+                            "topicos": [
+                                {
+                                    "id": 2730,
+                                    "descricao": "PELOS MESMOS MEIOS DE CONTRATAÇÃO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2299,
+                            "descricao": "CARTÕES EM BRAILE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2300,
+                            "descricao": "FATURA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2301,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2302,
+                            "descricao": "MAQUININHA",
+                            "topicos": [
+                                {
+                                    "id": 2726,
+                                    "descricao": "ADAPTAÇÃO DE TECLAS EM BRAILE"
+                                },
+                                {
+                                    "id": 2727,
+                                    "descricao": "ADAPTAÇÃO INFORMAÇÕES EM ÁUDIO"
+                                },
+                                {
+                                    "id": 2731,
+                                    "descricao": "PRAZO PARA MANUTENÇÃO 48HS"
+                                },
+                                {
+                                    "id": 2733,
+                                    "descricao": "TAXAS E TARIFAS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2303,
+                            "descricao": "PAGAMENTOS",
+                            "topicos": [
+                                {
+                                    "id": 2729,
+                                    "descricao": "MULTAS E DÉBITOS PÚBLICOS"
+                                },
+                                {
+                                    "id": 2732,
+                                    "descricao": "TARIFA DE PEDÁGIOS"
+                                },
+                                {
+                                    "id": 2734,
+                                    "descricao": "TRIBUTOS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2304,
+                            "descricao": "PARCELAMENTO",
+                            "topicos": [
+                                {
+                                    "id": 2728,
+                                    "descricao": "CANCELAMENTO DE COMPRAS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2305,
+                            "descricao": "PROGRAMA DE FIDELIZAÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2306,
+                            "descricao": "TARIFAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2307,
+                            "descricao": "TAXA DE JUROS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1695,
+                    "descricao": "CHEQUE ESPECIAL",
+                    "subtemas": [
+                        {
+                            "id": 2308,
+                            "descricao": "ALERTA SMS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2309,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1696,
+                    "descricao": "COMÉRCIO ELETRÔNICO",
+                    "subtemas": [
+                        {
+                            "id": 2310,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2311,
+                            "descricao": "REGULAMENTAÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1698,
+                    "descricao": "CONSIGNADO",
+                    "subtemas": [
+                        {
+                            "id": 2883,
+                            "descricao": "SUSPENSÃO DE PAGAMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2314,
+                            "descricao": "AMOSTRA GRÁTIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2315,
+                            "descricao": "ASSINATURA FÍSICA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2316,
+                            "descricao": "DÉBITOS ATRASADOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2317,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2318,
+                            "descricao": "INFORMAÇÕES SOBRE CONDIÇÕES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2319,
+                            "descricao": "MARGEM",
+                            "topicos": [
+                                {
+                                    "id": 2735,
+                                    "descricao": "DESCONTO ACIMA DA MARGEM"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2320,
+                            "descricao": "OFERTA AOS IDOSOS",
+                            "topicos": [
+                                {
+                                    "id": 2737,
+                                    "descricao": "TELEFONE"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2321,
+                            "descricao": "PROCEDIMENTO CONTRATAÇÃO",
+                            "topicos": [
+                                {
+                                    "id": 2736,
+                                    "descricao": "IDOSO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2322,
+                            "descricao": "TAXA DE JUROS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1699,
+                    "descricao": "CONSÓRCIO",
+                    "subtemas": [
+                        {
+                            "id": 2323,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1700,
+                    "descricao": "CONTA CORRENTE",
+                    "subtemas": [
+                        {
+                            "id": 2324,
+                            "descricao": "ENCERRAMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2325,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1701,
+                    "descricao": "CORRESPONDENTE BANCÁRIO",
+                    "subtemas": [
+                        {
+                            "id": 2326,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1702,
+                    "descricao": "CRÉDITO RURAL",
+                    "subtemas": [
+                        {
+                            "id": 2327,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1703,
+                    "descricao": "FGTS",
+                    "subtemas": [
+                        {
+                            "id": 2328,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1704,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2882,
+                            "descricao": "CRÉDITO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2884,
+                            "descricao": "GOLPES E FRAUDES ",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2887,
+                            "descricao": "COBRANÇA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2346,
+                            "descricao": "OUTROS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2342,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2333,
+                            "descricao": "CADASTRO POSITIVO E NEGATIVO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2329,
+                            "descricao": "AMOSTRA GRÁTIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2330,
+                            "descricao": "ASSINATURA FÍSICA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2331,
+                            "descricao": "BANCO DE DADOS",
+                            "topicos": [
+                                {
+                                    "id": 2749,
+                                    "descricao": "IDENTIFICAÇÃO RACIAL NO CADASTRO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2332,
+                            "descricao": "BOLETOS/PAGAMENTOS",
+                            "topicos": [
+                                {
+                                    "id": 2738,
+                                    "descricao": "AMORTIZAÇÃO - LIQUIDAÇÃO ANTECIPADA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2334,
+                            "descricao": "CANCELAMENTO DE SERVIÇOS",
+                            "topicos": [
+                                {
+                                    "id": 2765,
+                                    "descricao": "TODOS OS CANAIS"
+                                },
+                                {
+                                    "id": 2766,
+                                    "descricao": "VIA INTERNET"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2335,
+                            "descricao": "CÓDIGO DE DEFESA DO CONSUMIDOR",
+                            "topicos": [
+                                {
+                                    "id": 2762,
+                                    "descricao": "REGULAMENTAÇÃO ESTADUAL"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2336,
+                            "descricao": "COMUNICAÇÃO ELETRÔNICA",
+                            "topicos": [
+                                {
+                                    "id": 2740,
+                                    "descricao": "AUTORIZAÇÃO DO CLIENTE"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2337,
+                            "descricao": "CONTRATOS",
+                            "topicos": [
+                                {
+                                    "id": 2739,
+                                    "descricao": "ANUÊNCIA PRÉVIA DO CONSUMIDOR"
+                                },
+                                {
+                                    "id": 2747,
+                                    "descricao": "CONTRATOS"
+                                },
+                                {
+                                    "id": 2761,
+                                    "descricao": "REGRAS DE FIDELIZAÇÃO DO CONSUMIDOR"
+                                },
+                                {
+                                    "id": 2763,
+                                    "descricao": "RENOVAÇÃO AUTOMÁTICA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2338,
+                            "descricao": "DANOS MORAIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2339,
+                            "descricao": "DOCUMENTOS",
+                            "topicos": [
+                                {
+                                    "id": 2742,
+                                    "descricao": "BRAILLE"
+                                },
+                                {
+                                    "id": 2743,
+                                    "descricao": "BRAILLE - CÓDIGO DE DEFESA DO CONSUMIDOR"
+                                },
+                                {
+                                    "id": 2744,
+                                    "descricao": "BRAILLE - CONTRATOS"
+                                },
+                                {
+                                    "id": 2745,
+                                    "descricao": "BRAILLE - EXTRATOS, FATURAS E BOLETOS"
+                                },
+                                {
+                                    "id": 2746,
+                                    "descricao": "COBRANÇA PARA EMISSÃO"
+                                },
+                                {
+                                    "id": 2748,
+                                    "descricao": "DIGITALIZAÇÃO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2340,
+                            "descricao": "ENTREGA DE PRODUTOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2341,
+                            "descricao": "EXTRATOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2343,
+                            "descricao": "INDEFERIMENTO DO CRÉDITO",
+                            "topicos": [
+                                {
+                                    "id": 2753,
+                                    "descricao": "MODELO A SER ADOTADO"
+                                },
+                                {
+                                    "id": 2755,
+                                    "descricao": "NO ATO DA RECUSA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2344,
+                            "descricao": "MARKETING",
+                            "topicos": [
+                                {
+                                    "id": 2757,
+                                    "descricao": "PROMOÇÕES"
+                                },
+                                {
+                                    "id": 2758,
+                                    "descricao": "PROMOÇÕES - ANUÊNCIA PRÉVIA DO CONSUMIDOR"
+                                },
+                                {
+                                    "id": 2759,
+                                    "descricao": "PROMOÇÕES - EXTENSÃO DE BENEFÍCIOS AOS CLIENTES PRÉ-EXISTENTE"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2345,
+                            "descricao": "MOTIVOS DE INDEFERIMENTO DE CRÉDITO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2347,
+                            "descricao": "PAGAMENTOS E COBRANÇA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2348,
+                            "descricao": "PORTABILIDADE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2349,
+                            "descricao": "PROCEDIMENTO CONTRATAÇÃO",
+                            "topicos": [
+                                {
+                                    "id": 2750,
+                                    "descricao": "IDOSO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2350,
+                            "descricao": "PROCON",
+                            "topicos": [
+                                {
+                                    "id": 2752,
+                                    "descricao": "LIVRO DE RECLAMAÇÕES"
+                                },
+                                {
+                                    "id": 2764,
+                                    "descricao": "SUA QUEIXA VALE RECOMPENSA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2351,
+                            "descricao": "PUBLICIDADE",
+                            "topicos": [
+                                {
+                                    "id": 2754,
+                                    "descricao": "MODIFICAÇÃO DE IMAGEM"
+                                },
+                                {
+                                    "id": 2760,
+                                    "descricao": "PUBLICIDADE ABUSIVA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2352,
+                            "descricao": "RECURSO SUBSIDIADO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2353,
+                            "descricao": "RESPONSABILIDADE SOLIDÁRIA DO FINANCIADOR",
+                            "topicos": [
+                                {
+                                    "id": 2756,
+                                    "descricao": "OBRAS PÚBLICAS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2354,
+                            "descricao": "RESSARCIMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2355,
+                            "descricao": "RESTRIÇÃO DE OFERTA/VENDA",
+                            "topicos": [
+                                {
+                                    "id": 2741,
+                                    "descricao": "AVISO PRÉVIO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2356,
+                            "descricao": "SECURITIZAÇÃO DE DÍVIDA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2357,
+                            "descricao": "SUPERENDIVIDAMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2358,
+                            "descricao": "TARIFAS",
+                            "topicos": [
+                                {
+                                    "id": 2751,
+                                    "descricao": "ISENÇÃO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2359,
+                            "descricao": "TAXA DE JUROS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2360,
+                            "descricao": "VENDA CASADA",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1705,
+                    "descricao": "IMOBILIÁRIO",
+                    "subtemas": [
+                        {
+                            "id": 2912,
+                            "descricao": "PRAZO PARA ANÁLISE DE CRÉDITO ",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2361,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2362,
+                            "descricao": "REGISTRO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1706,
+                    "descricao": "MICROCRÉDITO",
+                    "subtemas": [
+                        {
+                            "id": 2363,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1707,
+                    "descricao": "PLANO DE SAÚDE",
+                    "subtemas": [
+                        {
+                            "id": 2881,
+                            "descricao": "RESCISÃO/CANCELAMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2364,
+                            "descricao": "COBERTURA",
+                            "topicos": [
+                                {
+                                    "id": 2768,
+                                    "descricao": "MOTIVOS DE INDEFERIMENTO DA COBERTURA"
+                                },
+                                {
+                                    "id": 2769,
+                                    "descricao": "MOTIVOS DE INDEFERIMENTO DA COBERTURA - NO ATO DA RECUSA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2365,
+                            "descricao": "DESCREDENCIAMENTO DE HOSPITAIS E MÉDICOS",
+                            "topicos": [
+                                {
+                                    "id": 2767,
+                                    "descricao": "COMUNICADO INDIVIDUAL AOS CLIENTES"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2366,
+                            "descricao": "DIFICULTAR CONTRATAÇÃO POR IDOSO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2367,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2368,
+                            "descricao": "INFORMAÇÕES SOBRE CONDIÇÕES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2369,
+                            "descricao": "LIMITAÇÃO DE VALOR DE DESPESAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2370,
+                            "descricao": "PRAZOS",
+                            "topicos": [
+                                {
+                                    "id": 2770,
+                                    "descricao": "PRAZO PARA AUTORIZAÇÃO DE EXAMES - PRAZO ESPECIAL IDOSOS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2371,
+                            "descricao": "REAJUSTE",
+                            "topicos": [
+                                {
+                                    "id": 2771,
+                                    "descricao": "PRAZO PARA AUTORIZAÇÃO DE EXAMES - PRAZO ESPECIAL IDOSOS"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1708,
+                    "descricao": "PREVIDÊNCIA",
+                    "subtemas": [
+                        {
+                            "id": 2372,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1709,
+                    "descricao": "PRONAMPE",
+                    "subtemas": [
+                        {
+                            "id": 2373,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1710,
+                    "descricao": "SEGURO",
+                    "subtemas": [
+                        {
+                            "id": 2374,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2375,
+                            "descricao": "SEGURO DE VIDA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2376,
+                            "descricao": "SEGURO SAÚDE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2377,
+                            "descricao": "VEÍCULOS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1711,
+                    "descricao": "TÍTULOS DE INVESTIMENTOS",
+                    "subtemas": [
+                        {
+                            "id": 2378,
+                            "descricao": "DEBÊNTURES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2379,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2380,
+                            "descricao": "MERCADO DE CARBONO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2381,
+                            "descricao": "TÍTULOS VERDES",
+                            "topicos": [
+                                {
+                                    "id": 2772,
+                                    "descricao": "DEBÊNTURES VERDES"
+                                },
+                                {
+                                    "id": 2773,
+                                    "descricao": "HIDROGÊNIO VERDE"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1712,
+                    "descricao": "TRANSFERÊNCIAS",
+                    "subtemas": [
+                        {
+                            "id": 2382,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1713,
+                    "descricao": "VEÍCULOS",
+                    "subtemas": [
+                        {
+                            "id": 2383,
+                            "descricao": "EXECUÇÃO DA GARANTIA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2384,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2385,
+                            "descricao": "LEASING",
+                            "topicos": [
+                                {
+                                    "id": 2774,
+                                    "descricao": "BAIXA DE GRAVAME"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 776,
+            "descricao": "JUDICIÁRIO",
+            "temas": [
+                {
+                    "id": 1893,
+                    "descricao": "CÓDIGO DE DEFESA DO CONSUMIDOR ",
+                    "subtemas": null
+                },
+                {
+                    "id": 1714,
+                    "descricao": "AÇÃO CIVIL PÚBLICA",
+                    "subtemas": [
+                        {
+                            "id": 2386,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1715,
+                    "descricao": "AÇÃO JUDICIAL",
+                    "subtemas": [
+                        {
+                            "id": 2387,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1716,
+                    "descricao": "AUDIÊNCIA PÚBLICA",
+                    "subtemas": [
+                        {
+                            "id": 2388,
+                            "descricao": "ACESSIBILIDADE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2389,
+                            "descricao": "CÓDIGO TRIBUTÁRIO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2390,
+                            "descricao": "DIREITOS DO CONSUMIDOR",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2391,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2392,
+                            "descricao": "LICITAÇÕES",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1717,
+                    "descricao": "CARTÓRIOS",
+                    "subtemas": [
+                        {
+                            "id": 2393,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1718,
+                    "descricao": "CÓDIGO CIVIL",
+                    "subtemas": [
+                        {
+                            "id": 2394,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1719,
+                    "descricao": "CÓDIGO COMERCIAL",
+                    "subtemas": [
+                        {
+                            "id": 2395,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1720,
+                    "descricao": "GARANTIA JUDICIAL",
+                    "subtemas": [
+                        {
+                            "id": 2396,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1721,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2397,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1722,
+                    "descricao": "HONORÁRIOS",
+                    "subtemas": [
+                        {
+                            "id": 2398,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1723,
+                    "descricao": "ÍNDICE DE CORREÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2399,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1724,
+                    "descricao": "JUIZADO ESPECIAL CIVIL",
+                    "subtemas": [
+                        {
+                            "id": 2400,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1725,
+                    "descricao": "JUSTIÇA GRATUITA",
+                    "subtemas": [
+                        {
+                            "id": 2401,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1726,
+                    "descricao": "MEDIAÇÃO E ARBITRAGEM",
+                    "subtemas": [
+                        {
+                            "id": 2402,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1727,
+                    "descricao": "PRAZOS PRESCRICIONAIS E DECADÊNCIA",
+                    "subtemas": [
+                        {
+                            "id": 2403,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1728,
+                    "descricao": "RECURSOS",
+                    "subtemas": [
+                        {
+                            "id": 2404,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1729,
+                    "descricao": "TRIBUNAIS SUPERIORES",
+                    "subtemas": [
+                        {
+                            "id": 2405,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 777,
+            "descricao": "TECNOLOGIA",
+            "temas": [
+                {
+                    "id": 1730,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2406,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1731,
+                    "descricao": "IA",
+                    "subtemas": [
+                        {
+                            "id": 2407,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1732,
+                    "descricao": "IDENTIDADE DIGITAL",
+                    "subtemas": [
+                        {
+                            "id": 2408,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1733,
+                    "descricao": "LGPD",
+                    "subtemas": [
+                        {
+                            "id": 2409,
+                            "descricao": "CONSENTIMENTO PRÉVIO DO USUÁRIO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2410,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2411,
+                            "descricao": "USO RESTRITO DE AUTORIDADES PÚBLICAS",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 778,
+            "descricao": "ATENDIMENTO",
+            "temas": [
+                {
+                    "id": 1734,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2412,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1735,
+                    "descricao": "PRESENCIAL",
+                    "subtemas": [
+                        {
+                            "id": 2413,
+                            "descricao": "ACESSO COM ANIMAIS EM AGÊNCIAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2414,
+                            "descricao": "ATENDIMENTO PREFERENCIAL",
+                            "topicos": [
+                                {
+                                    "id": 2775,
+                                    "descricao": "ACESSO COM CÃO GUIA"
+                                },
+                                {
+                                    "id": 2776,
+                                    "descricao": "ATENDIMENTO EM PISO TÉRREO"
+                                },
+                                {
+                                    "id": 2777,
+                                    "descricao": "CARTEIRA DE IDENTIFICAÇÃO"
+                                },
+                                {
+                                    "id": 2779,
+                                    "descricao": "DOADORES DE SANGUE"
+                                },
+                                {
+                                    "id": 2780,
+                                    "descricao": "EM QUALQUER GUICHÊ DE ATENDIMENTO"
+                                },
+                                {
+                                    "id": 2781,
+                                    "descricao": "FUNCIONÁRIO EXCLUSIVO"
+                                },
+                                {
+                                    "id": 2782,
+                                    "descricao": "GRUPOS DIVERSOS"
+                                },
+                                {
+                                    "id": 2783,
+                                    "descricao": "HORÁRIO EXCLUSIVO"
+                                },
+                                {
+                                    "id": 2784,
+                                    "descricao": "INTÉRPRETE DE LIBRAS"
+                                },
+                                {
+                                    "id": 2786,
+                                    "descricao": "PESSOAS COM OBESIDADE GRAU 3"
+                                },
+                                {
+                                    "id": 2787,
+                                    "descricao": "PREVISTO NA LEI FEDERAL"
+                                },
+                                {
+                                    "id": 2789,
+                                    "descricao": "PROVA DE VIDA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2415,
+                            "descricao": "CELULARES",
+                            "topicos": [
+                                {
+                                    "id": 2785,
+                                    "descricao": "PERMITE O USO"
+                                },
+                                {
+                                    "id": 2788,
+                                    "descricao": "PROÍBE O USO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2416,
+                            "descricao": "DIREITO AO ALEITAMENTO MATERNO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2417,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2418,
+                            "descricao": "GUICHÊS DE CAIXA RÁPIDO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2419,
+                            "descricao": "PROÍBE ATENDIMENTO DIFERENCIADO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2420,
+                            "descricao": "PROTOCOLO DE ATENDIMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2421,
+                            "descricao": "QUANTIDADE DE CAIXAS DE ATENDIMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2422,
+                            "descricao": "QUANTIDADE MÍNIMA DE ASSENTOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2423,
+                            "descricao": "TEMPO DE ATENDIMENTO",
+                            "topicos": [
+                                {
+                                    "id": 2778,
+                                    "descricao": "DANO TEMPORAL"
+                                },
+                                {
+                                    "id": 2790,
+                                    "descricao": "RESTRIÇÃO DO TEMPO PREVISTO NA SARB"
+                                },
+                                {
+                                    "id": 2791,
+                                    "descricao": "SANÇÕES"
+                                },
+                                {
+                                    "id": 2792,
+                                    "descricao": "TEMPO A SER CUMPRIDO PELA GERÊNCIA"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1736,
+                    "descricao": "REMOTO",
+                    "subtemas": [
+                        {
+                            "id": 2886,
+                            "descricao": "CENTRAL LIBRAS (VÍDEO)",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2424,
+                            "descricao": "ATENDIMENTO POR ROBÔS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2425,
+                            "descricao": "CADASTRO DE BLOQUEIO DE LIGAÇÕES",
+                            "topicos": [
+                                {
+                                    "id": 2885,
+                                    "descricao": "INVERTE A LÓGICA DO CADASTRO "
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2426,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2427,
+                            "descricao": "GRAVAÇÃO DE ATENDIMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2428,
+                            "descricao": "OPERAÇÕES BANCÁRIAS POR TELEFONE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2429,
+                            "descricao": "REGULAMENTAÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2430,
+                            "descricao": "RESTRIÇÃO DO HORÁRIO DE LIGAÇÕES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2431,
+                            "descricao": "SAC",
+                            "topicos": [
+                                {
+                                    "id": 2909,
+                                    "descricao": "ATENDIMENTO HUMANO"
+                                },
+                                {
+                                    "id": 2910,
+                                    "descricao": "IDENTIFICAÇÃO VISOR "
+                                },
+                                {
+                                    "id": 2793,
+                                    "descricao": "BLOQUEIO DE LIGAÇÕES DE CELULAR"
+                                },
+                                {
+                                    "id": 2795,
+                                    "descricao": "VIDEOCHAMADA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2432,
+                            "descricao": "SITE ITAÚ",
+                            "topicos": [
+                                {
+                                    "id": 2794,
+                                    "descricao": "CANAIS DE RECLAMAÇÃO"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1737,
+                    "descricao": "TELEMARKETING",
+                    "subtemas": [
+                        {
+                            "id": 2433,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2434,
+                            "descricao": "OFERTA AOS IDOSOS",
+                            "topicos": [
+                                {
+                                    "id": 2796,
+                                    "descricao": "TELEFONE"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 779,
+            "descricao": "PODER PÚBLICO",
+            "temas": [
+                {
+                    "id": 1738,
+                    "descricao": "DEPÓSITO JUDICIAL",
+                    "subtemas": [
+                        {
+                            "id": 2435,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1739,
+                    "descricao": "ELEIÇÕES",
+                    "subtemas": [
+                        {
+                            "id": 2436,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1740,
+                    "descricao": "EMPRESAS ESTATAIS",
+                    "subtemas": [
+                        {
+                            "id": 2437,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1741,
+                    "descricao": "FUNDEB",
+                    "subtemas": [
+                        {
+                            "id": 2438,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1742,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2439,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1743,
+                    "descricao": "LICITAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2440,
+                            "descricao": "CÓDIGO DE ÉTICA",
+                            "topicos": [
+                                {
+                                    "id": 2808,
+                                    "descricao": "PRAZO PARA ATUALIZAÇÃO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2441,
+                            "descricao": "COTAS TRABALHISTAS EMPRESAS PRESTADORAS DE SERVIÇOS",
+                            "topicos": [
+                                {
+                                    "id": 2797,
+                                    "descricao": "DEPENDENTES QUÍMICOS"
+                                },
+                                {
+                                    "id": 2798,
+                                    "descricao": "EGRESSOS SISTEMA PRISIONAL"
+                                },
+                                {
+                                    "id": 2800,
+                                    "descricao": "FUNCIONÁRIOS DOMICILIADOS NO MUNICÍPIO"
+                                },
+                                {
+                                    "id": 2801,
+                                    "descricao": "IDOSOS"
+                                },
+                                {
+                                    "id": 2802,
+                                    "descricao": "LGBT+"
+                                },
+                                {
+                                    "id": 2803,
+                                    "descricao": "MENOR APRENDIZ"
+                                },
+                                {
+                                    "id": 2804,
+                                    "descricao": "MULHERES VÍTIMAS DE VIOLÊNCIA"
+                                },
+                                {
+                                    "id": 2805,
+                                    "descricao": "PESSOAS COM DEFICIÊNCIA"
+                                },
+                                {
+                                    "id": 2806,
+                                    "descricao": "PESSOAS COM MAIS DE 50 ANOS"
+                                },
+                                {
+                                    "id": 2807,
+                                    "descricao": "PESSOAS EM SITUAÇÃO DE RUA"
+                                },
+                                {
+                                    "id": 2809,
+                                    "descricao": "PRIMEIRO EMPREGO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2442,
+                            "descricao": "DOAÇÕES CAMPANHAS ELEITORAIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2443,
+                            "descricao": "EMISSÃO DE NF",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2444,
+                            "descricao": "EMPRESAS ENVOLVIDAS EM CORRUPÇÃO",
+                            "topicos": [
+                                {
+                                    "id": 2799,
+                                    "descricao": "EXTENSÃO AOS SÓCIOS/ACIONISTAS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2445,
+                            "descricao": "FOLHA DE PAGAMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2446,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2447,
+                            "descricao": "GRAVAÇÃO DO PROCESSO LICITATÓRIO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2448,
+                            "descricao": "RELATÓRIO COMPROBATÓRIO DE EQUIDADE SALARIAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2449,
+                            "descricao": "SEGURO GARANTIA",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1744,
+                    "descricao": "LOBBY",
+                    "subtemas": [
+                        {
+                            "id": 2450,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1745,
+                    "descricao": "PARCERIA PÚBLICO-PRIVADA",
+                    "subtemas": [
+                        {
+                            "id": 2451,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1746,
+                    "descricao": "PEP",
+                    "subtemas": [
+                        {
+                            "id": 2452,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1747,
+                    "descricao": "PROVA DE VIDA",
+                    "subtemas": [
+                        {
+                            "id": 2453,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1748,
+                    "descricao": "RESPONSABILIDADE",
+                    "subtemas": [
+                        {
+                            "id": 2454,
+                            "descricao": "DISPONIBILIZAÇÃO DE INFORMAÇÕES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2455,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 780,
+            "descricao": "SOCIETÁRIO",
+            "temas": [
+                {
+                    "id": 1749,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2456,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1750,
+                    "descricao": "RESPONSABILIZAÇÃO DE ACIONISTAS",
+                    "subtemas": [
+                        {
+                            "id": 2457,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 781,
+            "descricao": "FUNCIONAMENTO BANCÁRIO",
+            "temas": [
+                {
+                    "id": 1751,
+                    "descricao": "ABERTURA DA AGÊNCIA",
+                    "subtemas": [
+                        {
+                            "id": 2458,
+                            "descricao": "FERIADOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2459,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2460,
+                            "descricao": "GUARDA DE CHAVES POR FUNCIONÁRIOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2461,
+                            "descricao": "HORÁRIO DE FUNCIONAMENTO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1752,
+                    "descricao": "ACESSIBILIDADE",
+                    "subtemas": [
+                        {
+                            "id": 2462,
+                            "descricao": "ADAPTAÇÃO DE CALÇADAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2463,
+                            "descricao": "ASSENTOS",
+                            "topicos": [
+                                {
+                                    "id": 2821,
+                                    "descricao": "OBESOS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2464,
+                            "descricao": "CADEIRAS DE RODAS",
+                            "topicos": [
+                                {
+                                    "id": 2814,
+                                    "descricao": "APENAS UMA"
+                                },
+                                {
+                                    "id": 2819,
+                                    "descricao": "MAIS DE UMA"
+                                },
+                                {
+                                    "id": 2820,
+                                    "descricao": "MOTORIZADA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2465,
+                            "descricao": "CAIXAS ELETRÔNICOS",
+                            "topicos": [
+                                {
+                                    "id": 2810,
+                                    "descricao": "ABNT"
+                                },
+                                {
+                                    "id": 2811,
+                                    "descricao": "ADAPTAÇÃO DE TECLAS EM BRAILE"
+                                },
+                                {
+                                    "id": 2812,
+                                    "descricao": "ADAPTAÇÃO GENÉRICA"
+                                },
+                                {
+                                    "id": 2813,
+                                    "descricao": "ALTURA REDUZIDA SEM ABNT"
+                                },
+                                {
+                                    "id": 2818,
+                                    "descricao": "ESCADA MÓVEL"
+                                },
+                                {
+                                    "id": 2822,
+                                    "descricao": "RAMPA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2466,
+                            "descricao": "DOCUMENTOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2467,
+                            "descricao": "ESTATUTOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2468,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2469,
+                            "descricao": "INFRAESTRUTURA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2470,
+                            "descricao": "INSTALAÇÕES ACESSÍVEIS",
+                            "topicos": [
+                                {
+                                    "id": 2823,
+                                    "descricao": "SEM MENÇÃO À ABNT"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2471,
+                            "descricao": "PISO TÁTIL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2472,
+                            "descricao": "PLACAS DE SINALIZAÇÃO EM BRAILE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2473,
+                            "descricao": "SANITÁRIOS",
+                            "topicos": [
+                                {
+                                    "id": 2817,
+                                    "descricao": "COM MENÇÃO À ABNT"
+                                },
+                                {
+                                    "id": 2824,
+                                    "descricao": "SEM MENÇÃO À ABNT"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2474,
+                            "descricao": "SISTEMA DE SENHAS",
+                            "topicos": [
+                                {
+                                    "id": 2815,
+                                    "descricao": "AVISO SONORO"
+                                },
+                                {
+                                    "id": 2816,
+                                    "descricao": "CHAMADA DE VOZ"
+                                },
+                                {
+                                    "id": 2825,
+                                    "descricao": "SENHA EM BRAILE"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1753,
+                    "descricao": "CAIXA ELETRÔNICO",
+                    "subtemas": [
+                        {
+                            "id": 2475,
+                            "descricao": "BIOMETRIA",
+                            "topicos": [
+                                {
+                                    "id": 2826,
+                                    "descricao": "TERMINAIS SEM IDENTIFICAÇÃO BIOMÉTRICA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2476,
+                            "descricao": "COMPROVANTE DE FALHA NA OPERAÇÃO - ATM",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2477,
+                            "descricao": "DISPONIBILIZAÇÃO DE CÉDULAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2478,
+                            "descricao": "DISPOSITIVOS QUE IMPEÇAM EXPLOSÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2479,
+                            "descricao": "EQUIPAMENTO DE INUTILIZAÇÃO DE CÉDULA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2480,
+                            "descricao": "ESPAÇO FÍSICO PARA DESCANSO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2481,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2482,
+                            "descricao": "INUNDAÇÃO FUMÍGENA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2483,
+                            "descricao": "LOCAL ESPECÍFICO DE INSTALAÇÃO DE ATMS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1754,
+                    "descricao": "CAIXAS FÍSICOS",
+                    "subtemas": [
+                        {
+                            "id": 2484,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1755,
+                    "descricao": "CARTAZES",
+                    "subtemas": [
+                        {
+                            "id": 2485,
+                            "descricao": "CARTAZ DIGITAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2486,
+                            "descricao": "CARTAZ EM BRAILE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2487,
+                            "descricao": "FRAUDES MAIS FREQUENTES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2488,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2489,
+                            "descricao": "RANKING DO PROCON",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2490,
+                            "descricao": "TAXAS DE JUROS ANUAIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2491,
+                            "descricao": "TEMÁTICAS QUE MERECEM ADERÊNCIA",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1756,
+                    "descricao": "COMPROVANTES DE OPERAÇÕES",
+                    "subtemas": [
+                        {
+                            "id": 2492,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2493,
+                            "descricao": "NOTA FISCAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2494,
+                            "descricao": "PAPEL TERMOSSENSÍVEL",
+                            "topicos": [
+                                {
+                                    "id": 2827,
+                                    "descricao": "BISFENOL A"
+                                },
+                                {
+                                    "id": 2828,
+                                    "descricao": "DURABILIDADE ATÉ 5 ANOS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2495,
+                            "descricao": "PRAZO DE DISPONIBILIZAÇÃO DA INFORMAÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1757,
+                    "descricao": "DESFIBRILADOR",
+                    "subtemas": [
+                        {
+                            "id": 2496,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1758,
+                    "descricao": "ELEVADORES",
+                    "subtemas": [
+                        {
+                            "id": 2497,
+                            "descricao": "GERADOR",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2498,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1759,
+                    "descricao": "ESTACIONAMENTOS",
+                    "subtemas": [
+                        {
+                            "id": 2499,
+                            "descricao": "CÂMERAS DE MONITORAMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2500,
+                            "descricao": "CARTAZES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2501,
+                            "descricao": "CONTRATAÇÃO DE SEGURO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2502,
+                            "descricao": "DISCRIMINAÇÃO DOS ITENS INTERNOS DOS VEÍCULOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2503,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2504,
+                            "descricao": "MANOBRA DE VEÍCULOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2505,
+                            "descricao": "NÚMERO MÍNIMO DE VAGAS",
+                            "topicos": [
+                                {
+                                    "id": 2913,
+                                    "descricao": "PESSOAS TEA"
+                                },
+                                {
+                                    "id": 2914,
+                                    "descricao": "PESSOAS TEA"
+                                },
+                                {
+                                    "id": 2829,
+                                    "descricao": "BICICLETAS"
+                                },
+                                {
+                                    "id": 2830,
+                                    "descricao": "CARROS ELÉTRICOS E HÍBRIDOS"
+                                },
+                                {
+                                    "id": 2832,
+                                    "descricao": "GESTANTES E LACTANTES"
+                                },
+                                {
+                                    "id": 2833,
+                                    "descricao": "IDOSOS"
+                                },
+                                {
+                                    "id": 2837,
+                                    "descricao": "MOTOCICLETAS"
+                                },
+                                {
+                                    "id": 2839,
+                                    "descricao": "PESSOAS COM DEFICIÊNCIA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2506,
+                            "descricao": "OBRIGATORIEDADE DE ESTACIONAMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2507,
+                            "descricao": "PAGAMENTO",
+                            "topicos": [
+                                {
+                                    "id": 2831,
+                                    "descricao": "COBRANÇA POR TEMPO FRACIONADO"
+                                },
+                                {
+                                    "id": 2834,
+                                    "descricao": "ISENÇÃO PARA ATENDIMENTO PREFERENCIAL"
+                                },
+                                {
+                                    "id": 2835,
+                                    "descricao": "ISENÇÃO PARA TODOS OS USUÁRIOS"
+                                },
+                                {
+                                    "id": 2836,
+                                    "descricao": "ISENÇÃO/PAGAMENTO PROPORCIONAL PARA MOTOS"
+                                },
+                                {
+                                    "id": 2838,
+                                    "descricao": "MULTAS POR PERDA DO TICKET"
+                                },
+                                {
+                                    "id": 2840,
+                                    "descricao": "TEMPO MÍNIMO DE TOLERÂNCIA"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1760,
+                    "descricao": "ESTATUTO DE FUNCIONAMENTO",
+                    "subtemas": [
+                        {
+                            "id": 2508,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1761,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2509,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1762,
+                    "descricao": "GUARDA-VOLUMES",
+                    "subtemas": [
+                        {
+                            "id": 2510,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1763,
+                    "descricao": "INSTALAÇÃO DE ESTABELECIMENTOS FINANCEIROS",
+                    "subtemas": [
+                        {
+                            "id": 2511,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2512,
+                            "descricao": "LOCAL ESPECÍFICO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1764,
+                    "descricao": "ITENS DE CONFORTO",
+                    "subtemas": [
+                        {
+                            "id": 2911,
+                            "descricao": "SALAS SENSORIAIS ",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2513,
+                            "descricao": "ÁLCOOL EM GEL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2514,
+                            "descricao": "BEBEDOUROS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2515,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2516,
+                            "descricao": "TENDAS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1765,
+                    "descricao": "PAGAMENTO DE CONTAS",
+                    "subtemas": [
+                        {
+                            "id": 2517,
+                            "descricao": "BOLETOS VENCIDOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2518,
+                            "descricao": "CONTAS DE CONSUMO PÚBLICO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2519,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2520,
+                            "descricao": "SISTEMA INOPERANTE",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1766,
+                    "descricao": "PATRIMÔNIO",
+                    "subtemas": [
+                        {
+                            "id": 2521,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2522,
+                            "descricao": "REGRAS PARA REFORMAS E CONSTRUÇÕES",
+                            "topicos": [
+                                {
+                                    "id": 2841,
+                                    "descricao": "ALVARÁ DE FUNCIONAMENTO"
+                                },
+                                {
+                                    "id": 2842,
+                                    "descricao": "ARQUITETURA HOSTIL"
+                                },
+                                {
+                                    "id": 2843,
+                                    "descricao": "CAPTAÇÃO ÁGUA DAS CHUVAS"
+                                },
+                                {
+                                    "id": 2844,
+                                    "descricao": "CERTIDÃO DE HABITE"
+                                },
+                                {
+                                    "id": 2845,
+                                    "descricao": "CÓDIGO DE OBRAS"
+                                },
+                                {
+                                    "id": 2846,
+                                    "descricao": "CRITÉRIOS DE SUSTENTABILIDADE"
+                                },
+                                {
+                                    "id": 2847,
+                                    "descricao": "RECUPERAÇÃO DE VIAS PÚBLICAS"
+                                },
+                                {
+                                    "id": 2848,
+                                    "descricao": "REDUÇÃO DA VAZÃO DE ÁGUA"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1767,
+                    "descricao": "PREVENÇÃO DE ACIDENTES",
+                    "subtemas": [
+                        {
+                            "id": 2523,
+                            "descricao": "BOMBEIROS EM AGÊNCIA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2524,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2525,
+                            "descricao": "ITENS DE PROTEÇÃO",
+                            "topicos": [
+                                {
+                                    "id": 2849,
+                                    "descricao": "ESCADAS/ESTEIRAS ROLANTES"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2526,
+                            "descricao": "PROFISSIONAIS DE PRIMEIROS SOCORROS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1768,
+                    "descricao": "SANITÁRIOS",
+                    "subtemas": [
+                        {
+                            "id": 2527,
+                            "descricao": "ACESSO DE ACORDO COM IDENTIDADE DE GÊNERO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2528,
+                            "descricao": "FRALDÁRIOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2529,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2530,
+                            "descricao": "SEPARADOS POR SEXO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1769,
+                    "descricao": "TEMPO EM FILA",
+                    "subtemas": [
+                        {
+                            "id": 2531,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1770,
+                    "descricao": "USO DO DINHEIRO EM ESPÉCIE",
+                    "subtemas": [
+                        {
+                            "id": 2532,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 782,
+            "descricao": "SEGURANÇA FÍSICA",
+            "temas": [
+                {
+                    "id": 1896,
+                    "descricao": "USO DE CELULAR ",
+                    "subtemas": null
+                },
+                {
+                    "id": 1771,
+                    "descricao": "BIOMBOS",
+                    "subtemas": [
+                        {
+                            "id": 2533,
+                            "descricao": "CABINES INDIVIDUAIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2534,
+                            "descricao": "ENTRE ATMS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2535,
+                            "descricao": "ENTRE CAIXA DE ATENDIMENTO E FILA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2536,
+                            "descricao": "ENTRE CAIXA ELETRÔNICO E FILA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2537,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1772,
+                    "descricao": "BLINDAGEM",
+                    "subtemas": [
+                        {
+                            "id": 2538,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1773,
+                    "descricao": "CÂMERAS DE MONITORAMENTO",
+                    "subtemas": [
+                        {
+                            "id": 2539,
+                            "descricao": "COBERTURA DE IMAGEM",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2540,
+                            "descricao": "COMPARTILHAMENTO DAS IMAGENS COM ÓRGÃOS PÚBLICOS",
+                            "topicos": [
+                                {
+                                    "id": 2851,
+                                    "descricao": "ADESÃO FACULTATIVA/VOLUNTÁRIA"
+                                },
+                                {
+                                    "id": 2852,
+                                    "descricao": "COMPARTILHAMENTO ONLINE DAS IMAGENS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2541,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2542,
+                            "descricao": "PRAZO DE GRAVAÇÃO DAS IMAGENS",
+                            "topicos": [
+                                {
+                                    "id": 2850,
+                                    "descricao": "ACIMA DE 90 DIAS"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1774,
+                    "descricao": "EQUIPAMENTO DE SEGURANÇA",
+                    "subtemas": [
+                        {
+                            "id": 2543,
+                            "descricao": "APARELHO DETECTOR DE NOTAS FALSAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2544,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1775,
+                    "descricao": "ESTATUTO DA SEGURANÇA",
+                    "subtemas": [
+                        {
+                            "id": 2545,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1776,
+                    "descricao": "FACHADAS",
+                    "subtemas": [
+                        {
+                            "id": 2546,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1777,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2547,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1778,
+                    "descricao": "PELÍCULA FUMÊ",
+                    "subtemas": [
+                        {
+                            "id": 2548,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1779,
+                    "descricao": "PORTAS DE ACESSO",
+                    "subtemas": [
+                        {
+                            "id": 2549,
+                            "descricao": "BIOMETRIA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2550,
+                            "descricao": "DETECTOR DE METAIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2551,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2552,
+                            "descricao": "MÁQUINA ESCANEAMENTO CORPORAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2553,
+                            "descricao": "PORTA GIRATÓRIA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2554,
+                            "descricao": "PORTA GIRATÓRIA BLINDADA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2555,
+                            "descricao": "PORTA LATERAL ALTERNATIVA",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1780,
+                    "descricao": "REVISTA",
+                    "subtemas": [
+                        {
+                            "id": 2557,
+                            "descricao": "REVISTA MANUAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2556,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1781,
+                    "descricao": "SEGURANÇA PÚBLICA",
+                    "subtemas": [
+                        {
+                            "id": 2558,
+                            "descricao": "CÂMERAS PÚBLICAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2559,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1782,
+                    "descricao": "TRANSPORTE DE VALORES",
+                    "subtemas": [
+                        {
+                            "id": 2560,
+                            "descricao": "CURSO DE FORMAÇÃO AOS FUNCIONÁRIOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2561,
+                            "descricao": "ESTACIONAMENTO INTERNO PARA ABASTECIMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2562,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2563,
+                            "descricao": "HORÁRIOS DE ABASTECIMENTO",
+                            "topicos": [
+                                {
+                                    "id": 2853,
+                                    "descricao": "FORA DO HORÁRIO DE ATENDIMENTO AO PÚBLICO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2564,
+                            "descricao": "INSTALAÇÃO DE EMPRESAS EM PERÍMETRO URBANO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1783,
+                    "descricao": "UNIDADE DE NEGÓCIO",
+                    "subtemas": [
+                        {
+                            "id": 2565,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1784,
+                    "descricao": "VIGILANTES",
+                    "subtemas": [
+                        {
+                            "id": 2917,
+                            "descricao": "BODYCAM",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2566,
+                            "descricao": "COLETE A PROVA DE BALAS",
+                            "topicos": [
+                                {
+                                    "id": 2855,
+                                    "descricao": "NÍVEL 3"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2567,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2568,
+                            "descricao": "HORÁRIO DE FUNCIONAMENTO DE ATMS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2569,
+                            "descricao": "VIGILANTE 24H",
+                            "topicos": [
+                                {
+                                    "id": 2854,
+                                    "descricao": "EM AGÊNCIAS BANCÁRIAS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2570,
+                            "descricao": "VIGILANTE DO SEXO FEMININO",
+                            "topicos": [
+                                {
+                                    "id": 2856,
+                                    "descricao": "OBRIGATORIEDADE"
+                                },
+                                {
+                                    "id": 2857,
+                                    "descricao": "PERCENTUAL MÍNIMO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2571,
+                            "descricao": "VIGILANTE EM CORRESPONDENTES BANCÁRIOS",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 783,
+            "descricao": "AMBIENTAL",
+            "temas": [
+                {
+                    "id": 1785,
+                    "descricao": "CONTAMINAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2572,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1786,
+                    "descricao": "DESASTRES",
+                    "subtemas": [
+                        {
+                            "id": 2573,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1787,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2574,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1788,
+                    "descricao": "LICENCIAMENTO AMBIENTAL",
+                    "subtemas": [
+                        {
+                            "id": 2575,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1789,
+                    "descricao": "POLUIDOR INDIRETO",
+                    "subtemas": [
+                        {
+                            "id": 2576,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1790,
+                    "descricao": "REGULARIZAÇÃO FUNDIÁRIA",
+                    "subtemas": [
+                        {
+                            "id": 2577,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1791,
+                    "descricao": "RESÍDUOS",
+                    "subtemas": [
+                        {
+                            "id": 2578,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1792,
+                    "descricao": "SUBSTITUIÇÃO DE DESCARTÁVEIS",
+                    "subtemas": [
+                        {
+                            "id": 2579,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1793,
+                    "descricao": "TAXONOMIA",
+                    "subtemas": [
+                        {
+                            "id": 2580,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1794,
+                    "descricao": "ZONEAMENTO ECOLÓGICO ECONÔMICO",
+                    "subtemas": [
+                        {
+                            "id": 2581,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 784,
+            "descricao": "INSTRUMENTOS DIGITAIS",
+            "temas": [
+                {
+                    "id": 1795,
+                    "descricao": "ARRANJOS DE PAGAMENTOS",
+                    "subtemas": [
+                        {
+                            "id": 2582,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1796,
+                    "descricao": "BLOCKCHAIN",
+                    "subtemas": [
+                        {
+                            "id": 2583,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1797,
+                    "descricao": "CBDC",
+                    "subtemas": [
+                        {
+                            "id": 2584,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1798,
+                    "descricao": "CRIPTOATIVOS",
+                    "subtemas": [
+                        {
+                            "id": 2585,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1799,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2586,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1800,
+                    "descricao": "OPEN FINANCE",
+                    "subtemas": [
+                        {
+                            "id": 2587,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1801,
+                    "descricao": "PIX",
+                    "subtemas": [
+                        {
+                            "id": 2588,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1802,
+                    "descricao": "TOKENS",
+                    "subtemas": [
+                        {
+                            "id": 2589,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 785,
+            "descricao": "TRIBUTÁRIO",
+            "temas": [
+                {
+                    "id": 1803,
+                    "descricao": "CARF",
+                    "subtemas": [
+                        {
+                            "id": 2590,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1804,
+                    "descricao": "COMPENSAÇÃO DE CRÉDITOS",
+                    "subtemas": [
+                        {
+                            "id": 2591,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1805,
+                    "descricao": "CONTRIBUIÇÃO PREVIDENCIÁRIA",
+                    "subtemas": [
+                        {
+                            "id": 2592,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2593,
+                            "descricao": "ISENÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1806,
+                    "descricao": "CPMF",
+                    "subtemas": [
+                        {
+                            "id": 2594,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1807,
+                    "descricao": "CSLL",
+                    "subtemas": [
+                        {
+                            "id": 2595,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1808,
+                    "descricao": "DEVEDOR CONTUMAZ",
+                    "subtemas": [
+                        {
+                            "id": 2596,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1809,
+                    "descricao": "DÍVIDA ATIVA",
+                    "subtemas": [
+                        {
+                            "id": 2597,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1810,
+                    "descricao": "DIVIDENDOS",
+                    "subtemas": [
+                        {
+                            "id": 2598,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1811,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2599,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1812,
+                    "descricao": "ICMS",
+                    "subtemas": [
+                        {
+                            "id": 2600,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2601,
+                            "descricao": "ISENÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1813,
+                    "descricao": "IGF",
+                    "subtemas": [
+                        {
+                            "id": 2602,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1814,
+                    "descricao": "INCENTIVOS FISCAIS",
+                    "subtemas": [
+                        {
+                            "id": 2603,
+                            "descricao": "COTAS TRABALHISTAS EMPRESAS BENEFICIÁRIAS DE INCENTIVOS FISCAIS",
+                            "topicos": [
+                                {
+                                    "id": 2858,
+                                    "descricao": "IDOSO"
+                                },
+                                {
+                                    "id": 2859,
+                                    "descricao": "MULHERES VÍTIMAS DE VIOLÊNCIA"
+                                },
+                                {
+                                    "id": 2860,
+                                    "descricao": "PESSOAS EM SITUAÇÃO DE RUA"
+                                },
+                                {
+                                    "id": 2861,
+                                    "descricao": "PRIMEIRO EMPREGO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2604,
+                            "descricao": "EMPRESAS ENVOLVIDAS EM CORRUPÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2605,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2606,
+                            "descricao": "INSTALAÇÃO DE ATIVIDADE EMPRESARIAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2607,
+                            "descricao": "MEIO AMBIENTE",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1815,
+                    "descricao": "IOF",
+                    "subtemas": [
+                        {
+                            "id": 2608,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1816,
+                    "descricao": "IPTU",
+                    "subtemas": [
+                        {
+                            "id": 2609,
+                            "descricao": "AUMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2610,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2611,
+                            "descricao": "ISENÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2612,
+                            "descricao": "REDUÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1817,
+                    "descricao": "IPVA",
+                    "subtemas": [
+                        {
+                            "id": 2613,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2614,
+                            "descricao": "ISENÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2615,
+                            "descricao": "REDUÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2616,
+                            "descricao": "TAXA LICENCIAMENTO ANUAL COBRANÇAS DE TAXAS ATRASADAS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1818,
+                    "descricao": "IRPJ",
+                    "subtemas": [
+                        {
+                            "id": 2617,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1819,
+                    "descricao": "ISS",
+                    "subtemas": [
+                        {
+                            "id": 2618,
+                            "descricao": "AUMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2619,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2620,
+                            "descricao": "ISENÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2621,
+                            "descricao": "REDUÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2622,
+                            "descricao": "SISTEMA",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1820,
+                    "descricao": "ITBI",
+                    "subtemas": [
+                        {
+                            "id": 2623,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2624,
+                            "descricao": "ISENÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1821,
+                    "descricao": "ITCMD",
+                    "subtemas": [
+                        {
+                            "id": 2625,
+                            "descricao": "AUMENTO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2626,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2627,
+                            "descricao": "ISENÇÃO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2628,
+                            "descricao": "REDUÇÃO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1822,
+                    "descricao": "JCP",
+                    "subtemas": [
+                        {
+                            "id": 2629,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1823,
+                    "descricao": "MULTAS",
+                    "subtemas": [
+                        {
+                            "id": 2630,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1824,
+                    "descricao": "PIS/COFINS",
+                    "subtemas": [
+                        {
+                            "id": 2631,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1825,
+                    "descricao": "PRECATÓRIO",
+                    "subtemas": [
+                        {
+                            "id": 2632,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2633,
+                            "descricao": "PAGAMENTO PARCELADO",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1826,
+                    "descricao": "PROCESSO TRIBUTÁRIO",
+                    "subtemas": [
+                        {
+                            "id": 2634,
+                            "descricao": "DEFESA DO CONTRIBUINTE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2635,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2636,
+                            "descricao": "SONEGAÇÃO FISCAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1827,
+                    "descricao": "REFIS",
+                    "subtemas": [
+                        {
+                            "id": 2637,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1828,
+                    "descricao": "REFORMA TRIBUTÁRIA",
+                    "subtemas": [
+                        {
+                            "id": 2638,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1829,
+                    "descricao": "TBU",
+                    "subtemas": [
+                        {
+                            "id": 2639,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 786,
+            "descricao": "SOCIAL",
+            "temas": [
+                {
+                    "id": 1830,
+                    "descricao": "CINEMAS",
+                    "subtemas": [
+                        {
+                            "id": 2641,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2640,
+                            "descricao": "ACESSIBILIDADE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2642,
+                            "descricao": "MEIA ENTRADA",
+                            "topicos": [
+                                {
+                                    "id": 2862,
+                                    "descricao": "GRUPOS DIVERSOS"
+                                },
+                                {
+                                    "id": 2863,
+                                    "descricao": "PESSOAS COM DEFICIÊNCIA"
+                                },
+                                {
+                                    "id": 2865,
+                                    "descricao": "PORTADORES DE CÂNCER E DOENÇAS DEGENERATIVAS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2643,
+                            "descricao": "SESSÕES ESPECIAIS",
+                            "topicos": [
+                                {
+                                    "id": 2864,
+                                    "descricao": "PESSOAS COM DEFICIÊNCIA"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1831,
+                    "descricao": "COMPLIANCE",
+                    "subtemas": [
+                        {
+                            "id": 2644,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1832,
+                    "descricao": "CULTURA",
+                    "subtemas": [
+                        {
+                            "id": 2645,
+                            "descricao": "EVENTOS",
+                            "topicos": [
+                                {
+                                    "id": 2866,
+                                    "descricao": "AUTORIZAÇÃO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2646,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2647,
+                            "descricao": "GRATUIDADE EM EVENTOS",
+                            "topicos": [
+                                {
+                                    "id": 2867,
+                                    "descricao": "IDOSOS"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1833,
+                    "descricao": "DISCRIMINAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2648,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1834,
+                    "descricao": "EDUCAÇÃO FINANCEIRA",
+                    "subtemas": [
+                        {
+                            "id": 2649,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1835,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2888,
+                            "descricao": "RESPONSABILIDADE SOCIAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2650,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1836,
+                    "descricao": "MOBILIDADE URBANA",
+                    "subtemas": [
+                        {
+                            "id": 2651,
+                            "descricao": "BICICLETÁRIOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2652,
+                            "descricao": "BICICLETAS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2653,
+                            "descricao": "CICLOVIAS",
+                            "topicos": [
+                                {
+                                    "id": 2869,
+                                    "descricao": "MANUTENÇÃO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2654,
+                            "descricao": "COMPARTILHAMENTO DE BICICLETAS",
+                            "topicos": [
+                                {
+                                    "id": 2868,
+                                    "descricao": "CONSIDERADO SERVIÇO PÚBLICO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2655,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1837,
+                    "descricao": "PROJETOS SOCIAIS",
+                    "subtemas": [
+                        {
+                            "id": 2656,
+                            "descricao": "APADRINHAMENTO DE PROJETOS E ESPAÇOS PÚBLICOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2657,
+                            "descricao": "BANCO DE EMPREGOS",
+                            "topicos": [
+                                {
+                                    "id": 2870,
+                                    "descricao": "IDOSOS"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2658,
+                            "descricao": "EMPREENDEDORISMO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2659,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2660,
+                            "descricao": "INCENTIVO A TECNOLOGIA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2661,
+                            "descricao": "INCLUSÃO E DIVERSIDADE",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1838,
+                    "descricao": "SELOS E PRÊMIOS",
+                    "subtemas": [
+                        {
+                            "id": 2662,
+                            "descricao": "ADESÃO FACULTATIVA",
+                            "topicos": [
+                                {
+                                    "id": 2871,
+                                    "descricao": "ACESSIBILIDADE"
+                                },
+                                {
+                                    "id": 2872,
+                                    "descricao": "DIVERSIDADE ÉTNICO RACIAL"
+                                },
+                                {
+                                    "id": 2873,
+                                    "descricao": "DIVERSIDADE SEXUAL/GÊNERO"
+                                },
+                                {
+                                    "id": 2875,
+                                    "descricao": "EDUCAÇÃO"
+                                },
+                                {
+                                    "id": 2876,
+                                    "descricao": "IDOSOS"
+                                },
+                                {
+                                    "id": 2877,
+                                    "descricao": "MEIO AMBIENTE"
+                                },
+                                {
+                                    "id": 2878,
+                                    "descricao": "SAÚDE"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2663,
+                            "descricao": "ADESÃO OBRIGATÓRIA",
+                            "topicos": [
+                                {
+                                    "id": 2874,
+                                    "descricao": "DIVERSIDADE SEXUAL/GÊNERO"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2664,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 787,
+            "descricao": "CRIMINAL",
+            "temas": [
+                {
+                    "id": 1839,
+                    "descricao": "ANTICORRUPÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2665,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2666,
+                            "descricao": "PROGRAMAS DE INTEGRIDADE",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1840,
+                    "descricao": "CÓDIGO PENAL",
+                    "subtemas": [
+                        {
+                            "id": 2667,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1841,
+                    "descricao": "CÓDIGO PROCESSO PENAL",
+                    "subtemas": [
+                        {
+                            "id": 2668,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1842,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2669,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1843,
+                    "descricao": "PLD",
+                    "subtemas": [
+                        {
+                            "id": 2670,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1844,
+                    "descricao": "SIGILO BANCÁRIO",
+                    "subtemas": [
+                        {
+                            "id": 2671,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2672,
+                            "descricao": "ORDEM JUDICIAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 788,
+            "descricao": "TRABALHISTA",
+            "temas": [
+                {
+                    "id": 1845,
+                    "descricao": "ABONOS",
+                    "subtemas": [
+                        {
+                            "id": 2673,
+                            "descricao": "EXAMES MÉDICOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2674,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2675,
+                            "descricao": "REUNIÃO ESCOLAR DE FILHOS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1846,
+                    "descricao": "ACORDO COLETIVO",
+                    "subtemas": [
+                        {
+                            "id": 2676,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1847,
+                    "descricao": "ASSÉDIO",
+                    "subtemas": [
+                        {
+                            "id": 2677,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1848,
+                    "descricao": "AUXÍLIOS",
+                    "subtemas": [
+                        {
+                            "id": 2678,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1849,
+                    "descricao": "CAMPANHAS EDUCATIVAS",
+                    "subtemas": [
+                        {
+                            "id": 2679,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1850,
+                    "descricao": "CAPACITAÇÃO DO COLABORADOR",
+                    "subtemas": [
+                        {
+                            "id": 2680,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1851,
+                    "descricao": "CONTRAREFORMA",
+                    "subtemas": [
+                        {
+                            "id": 2681,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1852,
+                    "descricao": "CONTRATAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2682,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2683,
+                            "descricao": "PROCESSO DE SELEÇÃO",
+                            "topicos": [
+                                {
+                                    "id": 2879,
+                                    "descricao": "ENTREVISTA"
+                                },
+                                {
+                                    "id": 2880,
+                                    "descricao": "PESQUISAS EM CADASTROS DE CRÉDITO"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 1853,
+                    "descricao": "CONTRIBUIÇÃO SINDICAL",
+                    "subtemas": [
+                        {
+                            "id": 2684,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1854,
+                    "descricao": "COTAS",
+                    "subtemas": [
+                        {
+                            "id": 2685,
+                            "descricao": "DEPENDENTES QUÍMICOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2686,
+                            "descricao": "FUNCIONÁRIOS DOMICILIADOS NO MUNICÍPIO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2687,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2688,
+                            "descricao": "IDOSOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2689,
+                            "descricao": "LGBT",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2690,
+                            "descricao": "MULHERES",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2691,
+                            "descricao": "MULHERES VÍTIMA DE VIOLÊNCIA DOMÉSTICA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2692,
+                            "descricao": "PESSOAS COM DEFICIÊNCIA",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2693,
+                            "descricao": "PESSOAS COM MAIS DE 40 ANOS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2694,
+                            "descricao": "PRIMEIRO EMPREGO",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2695,
+                            "descricao": "RACIAIS",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1855,
+                    "descricao": "DESLIGAMENTO",
+                    "subtemas": [
+                        {
+                            "id": 2696,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1856,
+                    "descricao": "DIVERSIDADE",
+                    "subtemas": [
+                        {
+                            "id": 2697,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1857,
+                    "descricao": "EQUIPARAÇÃO SALARIAL",
+                    "subtemas": [
+                        {
+                            "id": 2698,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1858,
+                    "descricao": "ESTABILIDADE",
+                    "subtemas": [
+                        {
+                            "id": 2699,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1859,
+                    "descricao": "ESTÁGIO",
+                    "subtemas": [
+                        {
+                            "id": 2700,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1860,
+                    "descricao": "FGTS",
+                    "subtemas": [
+                        {
+                            "id": 2701,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1861,
+                    "descricao": "GERAL",
+                    "subtemas": [
+                        {
+                            "id": 2702,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1862,
+                    "descricao": "ÍNDICE DE CORREÇÃO TRABALHISTA",
+                    "subtemas": [
+                        {
+                            "id": 2703,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1863,
+                    "descricao": "INSS",
+                    "subtemas": [
+                        {
+                            "id": 2704,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1864,
+                    "descricao": "JORNADA DE TRABALHO",
+                    "subtemas": [
+                        {
+                            "id": 2705,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1865,
+                    "descricao": "JOVEM APRENDIZ",
+                    "subtemas": [
+                        {
+                            "id": 2706,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1866,
+                    "descricao": "LICENÇAS",
+                    "subtemas": [
+                        {
+                            "id": 2707,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2708,
+                            "descricao": "LICENÇA PARENTAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1867,
+                    "descricao": "OUVIDORIA PARA FUNCIONÁRIOS",
+                    "subtemas": [
+                        {
+                            "id": 2709,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1868,
+                    "descricao": "PLANO DE SAÚDE",
+                    "subtemas": [
+                        {
+                            "id": 2710,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1869,
+                    "descricao": "PRAZOS",
+                    "subtemas": [
+                        {
+                            "id": 2711,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1870,
+                    "descricao": "PROCESSO TRABALHISTA",
+                    "subtemas": [
+                        {
+                            "id": 2712,
+                            "descricao": "DANOS MORAIS",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2713,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1871,
+                    "descricao": "RELAÇÕES SINDICAIS",
+                    "subtemas": [
+                        {
+                            "id": 2714,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1872,
+                    "descricao": "REMUNERAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2715,
+                            "descricao": "CONTRACHEQUES EM BRAILE",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2716,
+                            "descricao": "EQUIDADE SALARIAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2717,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        },
+                        {
+                            "id": 2718,
+                            "descricao": "PISO SALARIAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1873,
+                    "descricao": "RESCISÃO",
+                    "subtemas": [
+                        {
+                            "id": 2719,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1874,
+                    "descricao": "SAÚDE OCUPACIONAL",
+                    "subtemas": [
+                        {
+                            "id": 2720,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1875,
+                    "descricao": "TELETRABALHO",
+                    "subtemas": [
+                        {
+                            "id": 2721,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1876,
+                    "descricao": "TERCEIRIZAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2722,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1877,
+                    "descricao": "TRABALHO ESCRAVO/INFANTIL",
+                    "subtemas": [
+                        {
+                            "id": 2723,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1878,
+                    "descricao": "VACINAÇÃO",
+                    "subtemas": [
+                        {
+                            "id": 2724,
+                            "descricao": "GERAL",
+                            "topicos": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
